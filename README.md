@@ -33,8 +33,22 @@ The dataset used was pulled from the US government’s data.gov website which of
 
 ## Results
 
-For this project, the regional analysis was derived from the US Census Regional nd Divisions of the United States.
+For this project, the regional analysis was derived from the US Census Regional nd Divisions of the United States (see Fig 1).
 
-Figure 1:  Map indicating the States that were included in each region.
-(https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/Map.png)
+### Figure 1:  Map indicating the States that were included in each region.
+![Map](https://github.com/kkevin1999/Data_Project_1/assets/128385495/92ff4dc2-c8f2-4e82-93c3-9c57aff5e881)
+
+Initially, the total population of each of these regions was compared to the Covid 19,case distrobution for the three year time span (2020 to 2022).  Using pie charts, the two sets of data were compared and it was determined that they were quite similar (see Fig 2. 
+
+### Figure 2:  Pie charts of the regional distribution of Covid 19 cases from 2020 to 2022 as well as the total population of the US (2022) by Region.  (kevin could you confirm the us population data)
+![RegionalPie](https://github.com/kkevin1999/Data_Project_1/assets/128385495/116100c4-5de5-4cc5-a9d7-c49cf1126956)
+
+To gain a better understanding of the regional analysis on a yearly basis, bar charts were created using the mean total Covid 19 case counts.  In 2020 the North East Region had the lowest mean case count while the South had the highest.  In 2021 the South had the highest mean with the Mid West and Noeth East having similar means.  By 2022, both the West and South regions displayed hiher mean case counts than the North East or South. (see figure 3)
+
+### Fig 3
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/regionalbar.png)
+
+
+
+
 
