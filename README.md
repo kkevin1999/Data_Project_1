@@ -29,3 +29,12 @@ The dataset used was pulled from the US government’s data.gov website which of
 •	Selecting a specific state and creating a scatter plot reflecting the number of new COVID-19 cases reported in the data set over time
 
 •	Building a regression analysis model of that scatter plot# Data_Project_1
+
+
+## Results
+
+For this project, the regional analysis was derived from the US Census Regional nd Divisions of the United States.
+
+Figure 1:  Map indicating the States that were included in each region.
+!(https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/Map.png)
+
