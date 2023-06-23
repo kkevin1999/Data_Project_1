@@ -76,6 +76,23 @@ From this information, it was determined that further analysis was required at t
 ### Fig 10:
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/Southern_total_deaths.png)
 
+### Fig 11:
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/Mid_Western_total_cases.png)
+
+
+### Fig 12:
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/Mid_Western_total_deaths.png)
+
+
+### Fig 13:
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/Northeastern_total_cases.png)
+
+
+### Fig 14:
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/Northeastern_total_deaths.png)
+
+
+
 
 
 
