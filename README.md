@@ -91,20 +91,25 @@ From this information, it was determined that further analysis was required at t
 ### Fig 14:
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/Northeastern_total_deaths.png)
 
-
-# (Mohamed could you please add your notes here)
-
-### Fig 15:
+### Fig 15: The 5 States with the Highest Fatality Rates Due to COVID-19
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/Resources/bar_top5_fatality.png)
 
-### Fig 16:
+The 5 states with the highest proportion of COVID-19 cases leading to a fatality are Pennsylvania, Missouri, Georgia, Arizona, and New Mexico. Fatality rates for those 5 states were around 1.4% of total COVID-19 cases reported by October 2022.
+
+### Fig 16: The 5 States with the Lowest Fatality Rates Due to COVID-19
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/Resources/bar_bottom5_fatality.png)
 
-### Fig 17:
+The 5 states with the lowest proportion of COVID-19 cases leading to a fatality are New Hampshire, Vermont, Utah, Hawaii, and Alaska. Of those 5 states, New Hampshire had the highest at just below 0.8%, with the other 4 states hovering around 0.5% of COVID-19 cases reported by October 2022. 
+
+### Fig 17: Population Sizes, Medicare Spending, and Insurance Coverage for States with Highest COVID-19 Fatalities
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/Resources/Highest_Fatality_DF.png)
 
-### Fig 18:
+### Fig 18: Population Sizes, Medicare Spending, and Insurance Coverage for States with Lowest COVID-19 Fatalities
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/Resources/Lowest_Fatality_DF.png)
+
+Three factors were looked at to determine if there are any patterns with respect to states that suffered from COVID-19 fatalities and states that had relatively low COVID-19 related deaths. The mean population size for those states with the higher proportion of deaths was 7.9 million, whereas the mean population size for the states with the lowest proportion of deaths was 1.5 million. Medicare spending per person per year for the former group of states was $9,688.20 and for the latter group of states it was $8,710.20. As for the percentage of the population who had no health insurance, the former five states had a mean 9.6% uninsured and the latter five states 6.38%.
+
+Although causal analyses are beyond the scope of this study, there are some observations to raise with respect to the data. It is apparent more sparsley populated states suffered less COVID-19 deaths as a % of cases than more densley populated states. As for medical insurance, US healthcare relies on a patchwork of private insurance plans, largely offered through workplaces but also bought individually. Those who are above the age of 65 as well as certain cases of disabled younger uninsured people would qualify for Medicare, a federal insurance scheme. Thus, it is noted that the states that experienced higher proportions of COVID-19 deaths had an average of 9.6% of the state population uninsured, as opposed to 6.38% for the states with lowest fatalities. This disparity could provide a gateway for further research on the effects of private insurance on varying levels of the quality of healthcare and the likelihoods of positive health outcomes when hospitalized. 
 
 # (Ana could you put your analysis here)
 
