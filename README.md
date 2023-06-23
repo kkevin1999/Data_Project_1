@@ -45,8 +45,24 @@ Initially, the total population of each of these regions was compared to the Cov
 
 To gain a better understanding of the regional analysis on a yearly basis, bar charts were created using the mean total Covid 19 case counts.  In 2020 the North East Region had the lowest mean case count while the South had the highest.  In 2021 the South had the highest mean with the Mid West and Noeth East having similar means.  By 2022, both the West and South regions displayed hiher mean case counts than the North East or South. (see figure 3)
 
-### Fig 3
+### Fig 3:
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/regionalbar.png)
+
+By comparing boxplots of this yearly analysis, it was determined that the median for the regions in each of the three years was similar to one another.  It was observed that two states in the South were higher and one in the West were consistently well above theh top quartile (See figure 4,5 & 6).
+
+### Fig 4:
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/boxplot2020.png)
+
+
+### Fig 5:
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/boxplot2021.png)
+
+### Fig 6:
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/boxplot2022.png)
+
+
+
+
 
 
 
