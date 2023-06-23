@@ -45,23 +45,36 @@ Initially, the total population of each of these regions was compared to the Cov
 
 To gain a better understanding of the regional analysis on a yearly basis, bar charts were created using the mean total Covid 19 case counts.  In 2020 the North East Region had the lowest mean case count while the South had the highest.  In 2021 the South had the highest mean with the Mid West and Noeth East having similar means.  By 2022, both the West and South regions displayed hiher mean case counts than the North East or South. (see figure 3)
 
-### Fig 3:
+### Fig 3:  Mean total Covid Cases by Region for 2020 to 2021
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/regionalbar.png)
 
 By comparing boxplots of this yearly analysis, it was determined that the median for the regions in each of the three years was similar to one another.  It was observed that two states in the South were higher and one in the West were consistently well above theh top quartile (See figure 4,5 & 6).
 
-### Fig 4:
+### Fig 4:  Boxplot representing total covid cases by region for 2020.
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/boxplot2020.png)
 
 
-### Fig 5:
+### Fig 5: Boxplot representing total covid cases by region for 2021.
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/boxplot2021.png)
 
-### Fig 6:
+### Fig 6: Boxplot representing total covid cases by region for 2022.
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/boxplot2022.png)
 
+From this information, it was determined that further analysis was required at the state level in each region.
 
+# (Kevin can you insert your notes in here)
 
+### Fig 7:
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/Mid_Western_total_cases.png)
+
+### Fig 8:
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/Mid_Western_total_deaths.png)
+
+### Fig 9:  
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/Southern_total_cases.png)
+
+### Fig 10:
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/Southern_total_deaths.png)
 
 
 
