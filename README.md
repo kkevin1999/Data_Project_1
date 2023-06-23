@@ -133,8 +133,32 @@ The relation between Confirmed Cases and Total Deaths was almost 1, which shows 
 
 In the future, it would be beneficial to futher the analysis by looking at the differences in patients using Midicare versus Insurance coverage and the population size versus age distrobution.  The effect of the impacts of closures on students at all levels, especially in math and reading would be interesting and the effects of on methanl health at all ages.
 
+## References
 
+California Department of Public Health (2022, Sept 16). Tracking Confirmed and Probable COVID-19 Cases. https://www.cd ph.ca.gov/Programs/C ID/DCDC/Pages/COVID-19/Probable-Cases.aspx.
 
+Ohio Department of Health. (2023, June 15). Covid-19 Vaccination Dashboard - Ohio. COVID-19 Dashboard. https://coronavirus.oh io.gov/wps/portal/gov/covid-19 /dashboards/covi d-19-vaccine/covid-19-vaccination-dashboard 
 
+Michigan Department of Health & Human Services. (2023, June 14). Covid 19 Dashboard. SOM - State of Michigan. https://www.michigan.gov/coronavirus/resourc es/covid-19 - vaccine/covid-19-dashboard 
 
+Illinois Department of Public Health. (2023, May 12). COVID-19 Vaccine Administration Data. Vaccine Data. https://dph.illinois.gov/covid19/vaccine/vaccine-data.html?county=Illinois 
+
+Publisher Centers for Disease Control and Prevention. (2021, May 10). United States covid-19 cases and deaths by State over time. United States COVID-19 Cases and Deaths by State over Time - Catalog. https://web.archive.org/web/20230601195047/https://catalog.data.gov/dataset/united-states-covid-19-cases-and-deaths-by-state-over-time 
+
+News Medical Life Sciences (2022, September 21)  COVID-19 activity peaks during winter in the United States and Europe. https://www.news-medical.ne t/news/20220921/Study-shows-CO VID-19-activi ty-peaks-during-winter-in-the-United-States-and-Europe.aspx
+
+Los Angeles Times, (2023, January 12)  L.A. County COVID-19 deaths hit a new winter high. Why? https://www.latimes.com/california/story/2023-01-12/covid-deaths-exceed-summer-surge
+
+The New York Times, (2021, June 15), A Timeline of the Coronavirus in California. https://www.nytimes.com/2021/06/15/us/coronavirus-california-timeline.html
+
+California Department of Public Health. (As of September 15, 2022) Tracking Confirmed and Probable COVID-19 Cases. https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/Probable-Cases.aspx
+
+Population Reference Bureau (2021, December 22), Which U.S. States Have the Oldest Populations? https://www.prb.org/resources/which-us-states-are-the-oldest/
+
+Centers for Disease Control and Prevention (2022, Sep 27) Adult Obesity Prevalence Maps. https://www.cdc.gov/obesity/data/prevalence-maps.html
+
+Spectrum Local News, (2023, Jan 14) Study finds Texas has one of the highest obesity rates in U.S.. https://spectrumlocalnews.com/tx/south-texas-el-paso/news/2023/01/07/texas-obesity-inequities-#:~:text=Texas%20is%20ranked%20the%2012th,and%2032.2%25%20of%20white%20people.
+
+## Link to our presentation
+https://docs.google.com/presentation/d/1lhQlyAWrkFKcpSCQu1FBuV_lKb86fHAG-wJBblcVm28/edit?pli=1#slide=id.p
 
