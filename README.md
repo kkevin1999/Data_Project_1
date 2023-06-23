@@ -91,12 +91,12 @@ From this information, it was determined that further analysis was required at t
 ### Fig 14:
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/Northeastern_total_deaths.png)
 
-### Fig 15: The 5 States with the Highest Fatality Rates Due to COVID-19
+### Fig 15: 
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/Resources/bar_top5_fatality.png)
 
 The 5 states with the highest proportion of COVID-19 cases leading to a fatality are Pennsylvania, Missouri, Georgia, Arizona, and New Mexico. Fatality rates for those 5 states were around 1.4% of total COVID-19 cases reported by October 2022.
 
-### Fig 16: The 5 States with the Lowest Fatality Rates Due to COVID-19
+### Fig 16:
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/Resources/bar_bottom5_fatality.png)
 
 The 5 states with the lowest proportion of COVID-19 cases leading to a fatality are New Hampshire, Vermont, Utah, Hawaii, and Alaska. Of those 5 states, New Hampshire had the highest at just below 0.8%, with the other 4 states hovering around 0.5% of COVID-19 cases reported by October 2022. 
