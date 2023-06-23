@@ -20,8 +20,12 @@ The dataset used was pulled from the US government’s data.gov website which of
 •	Data cleaning/munging
 
 •	Aggregating COVID-19 case data (total number of cases, total number of deaths) for each state into a list for each given region as understood by the US Census Bureau (https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf)
+
 •	Presenting the regional data in easily understandable data visualizations (bar charts, line graph showing each region’s case numbers over time)
+
 •	Calculating the rate of death caused by COVID-19 as a proportion of total COVID-19 cases for each state in the data set
+
 •	Presenting the 5 states with the highest fatalities and the 5 states with the lowest fatalities as bar charts
 •	Selecting a specific state and creating a scatter plot reflecting the number of new COVID-19 cases reported in the data set over time
+
 •	Building a regression analysis model of that scatter plot# Data_Project_1
