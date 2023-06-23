@@ -92,6 +92,46 @@ From this information, it was determined that further analysis was required at t
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/Northeastern_total_deaths.png)
 
 
+# (Mohamed could you please add your notes here)
+
+### Fig 15:
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/Resources/bar_top5_fatality.png)
+
+### Fig 16:
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/Resources/bar_bottom5_fatality.png)
+
+### Fig 17:
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/Resources/Highest_Fatality_DF.png)
+
+### Fig 18:
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/Resources/Lowest_Fatality_DF.png)
+
+# (Ana could you put your analysis here)
+
+### Fig 19:  (need title)
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/State.png)
+
+### FIg 20:  (Need Title)
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/states2.png)
+
+### Fig 21:  (need title)
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/CA.png)
+
+### Fig 22:  (need title)
+![](https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/cor.png)
+
+##  Conclusion
+
+There was no significant difference in the average total cases from 2020 to 2022 between all four regions in the US (West, Mid-West, South and North-East).  Boxplots indicated that there were two states as outliers in the South and one in the West.  State analysis indicated the states were California, Florida and Texas.  
+
+Fatality rate of 0.5-1.5% indicates the virus has evolved to become endemic but not acute with newer variants being less lethal.  California, Texas and Florida had the highest infection and death rates in the U.S. due to their population size, obesity and an older population.
+ 
+The high infection and death rates in California were impacted by the working conditions on farms, the relaxed sanitary measures (use of masks, cleaning and social distancing) and the early reopenings of establishments.  
+Lax sanitary measures in the use of masks and social distancing.
+
+The relation between Confirmed Cases and Total Deaths was almost 1, which shows a high correlation. Population testing could be key to early decision making by governments and health departments for identification and control of the virus. 
+
+In the future, it would be beneficial to futher the analysis by looking at the differences in patients using Midicare versus Insurance coverage and the population size versus age distrobution.  The effect of the impacts of closures on students at all levels, especially in math and reading would be interesting and the effects of on methanl health at all ages.
 
 
 
