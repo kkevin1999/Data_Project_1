@@ -62,9 +62,6 @@ By comparing boxplots of this yearly analysis, it was determined that the median
 
 From this information, it was determined that further analysis was required at the state level in each region.
 
-# (Kevin can you insert your notes here)
-
- 
 ### Fig 7:
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/Mid_Western_total_cases.png)
 
