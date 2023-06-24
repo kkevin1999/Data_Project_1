@@ -62,34 +62,34 @@ By comparing boxplots of this yearly analysis, it was determined that the median
 
 From this information, it was determined that further analysis was required at the state level in each region.
 
-### Fig 7:
-![](https://github.com/kkevin1999/Data_Project_1/blob/main/Mid_Western_total_cases.png)
+### Fig 7: Total Cases Timeline for the Western United States
+![Western_total_cases](https://github.com/kkevin1999/Data_Project_1/assets/131548874/bc3d3b0e-e6e1-4a11-b421-659589a63325)
 
-### Fig 8:
-![](https://github.com/kkevin1999/Data_Project_1/blob/main/Mid_Western_total_deaths.png)
+### Fig 8: Total Deaths Timeline for the Western United States
+![Western_total_deaths](https://github.com/kkevin1999/Data_Project_1/assets/131548874/f457f93d-8835-4c06-9aa2-ff7a0446f3a4)
 
 Analysis of the Western United States showed California (CA) having the highest total cases by the end of 2022. However, other Western states did not display exponential increases in total cases. The timeline analysis of total cases for the Western region was able to identify the outlier we observed in the boxplot analysis. Similarly, the death timeline for the Western United States showed California (CA) having the highest total deaths in the Western region.  
 
-### Fig 9:  
+### Fig 9:  Total Cases Timeline for the Southern United States
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/Southern_total_cases.png)
 
-### Fig 10:
+### Fig 10: Total Deaths Timeline for the Southern United States
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/Southern_total_deaths.png)
 
 The total case timeline for the Southern United States showed Texas (TX) having the highest total cases by the end of 2022. However, we observed Florida (FL) experiencing similar trends as Texas. This led to the conclusion of Texas and Florida were the main contributors to the Covid-19 cases in the Southern region. Other southern regions did not experience drastic increases in total cases and stayed below 3,000,000 cases. Through this analysis, we were able to identify the two outliers in the Southern region's boxplots. Similarly, the death timeline for the Southern United States showed Texas and Florida having the highest total deaths by the end of 2022. 
 
-### Fig 11:
+### Fig 11: Total Cases Timeline for the Midwestern United States
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/Mid_Western_total_cases.png)
 
-### Fig 12:
+### Fig 12: Total Deaths Timeline for the Midwestern United States
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/Mid_Western_total_deaths.png)
 
 The Midwestern United States showed Illinois (IL), Ohio (OH), and Michigan (MI) experiencing similar trends of increasing cases throughout the pandemic. By 2022, we observed Illinois surpassing Ohio and Michigan  in total cases. These results may be a reflection of Ohio's (OH) and Michigan's (MI) vaccine shortages they experienced in early 2022. Other Midwestern states did not follow these trends which showed Illinois, Ohio, and Michigan were the main contributors to the Midwestern Covid-19 cases. However, the death timeline analysis showed Illinois, Ohio, and Michigan have similar total deaths. These results may be indicative of Ohio's and Michigan's flaws in Covid relief plans such as vaccinations and restrictions.   
 
-### Fig 13:
+### Fig 13: Total Cases Timeline for the Northeastern United States
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/Northeastern_total_cases.png)
 
-### Fig 14:
+### Fig 14: Total Deaths Timeline for the Northeastern United States
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/Northeastern_total_deaths.png)
 
 The analysis of the Northeastern region showed two states that were ahead of the other states in total case counts. Pennsylvania (PA) and New York (NY) had the highest total Covid-19 cases by the end of 2022. However, we observed New Jersey (NJ) and Massachusetts (MA) having similar trends of increasing cases in early 2022. From this analysis, we found that New York and Pennsylvania were the main contributors to the Northeastern region's total Covid-19 cases. The death timeline for the Northeastern region showed Pennsylvania (PA) having the highest number of deaths by the end of 2022. Compared to the total case timeline, New York had a lower total number of deaths than New Jersey. These results reflect the benefits of New York's stricter restrictions and vaccine efforts. 
