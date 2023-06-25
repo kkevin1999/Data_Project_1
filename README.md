@@ -114,19 +114,34 @@ Three factors were looked at to determine if there are any patterns with respect
 
 Although causal analyses are beyond the scope of this study, there are some observations to raise with respect to the data. It is apparent more sparsely populated states suffered fewer COVID-19 deaths as a % of cases than more densely populated states. As for medical insurance, US healthcare relies on a patchwork of private insurance plans, largely offered through workplaces but also bought individually. Those who are above the age of 65 as well as certain cases of disabled younger uninsured people would qualify for Medicare, a federal insurance scheme. Thus, it is noted that the states that experienced higher proportions of COVID-19 deaths had an average of 9.6% of the state population uninsured, as opposed to 6.38% for the states with the lowest fatalities. This disparity could provide a gateway for further research on the effects of private insurance on varying levels of the quality of healthcare and the likelihood of positive health outcomes when hospitalized. 
 
-# (Ana could you put your analysis here)
+# Analysis of new Covid cases by state
 
-### Fig 19:  (need title)
+### Fig 19:  Top three states with highest new Covid cases
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/State.png)
 
-### FIg 20:  (Need Title)
+Taking a closer look at the Southern and Western regions which had the highest total cases among the regions, we find that the top three states in terms of total cases are California, Texas and Florida.  These last two were determinant in the data of the South region and California with the highest number of cases in the country, impacting the West region.
+
+When investigating the variables that could indicate greater vulnerability in the population to Covid infection or death, a higher risk relationship was found in obese people, older adults or areas without clear or established sanitation protocols. Looking deeper into these data, we found that Texas has one of the highest rates of obesity in the country, as well as Florida is the second state with the second largest elderly population in the entire USA. This may have been key to Covid's figures.
+
+### FIg 20: State analysis in each region
+
+When studying the graphs for each state, the peak of infection by new cases is marked in a fraction of the time line and it is striking that the time between December 2021 and March 2022 was the highest time of new cases and this was recurrent in most states.
+
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/states2.png)
 
-### Fig 21:  (need title)
+Studies indicate that the increase in new Covid cases may be related to the winter season of influenza infections, as well as respiratory illnesses this season. The study concluded that although Covid virus transmission was continuous throughout the duration of the pandemic, the number of hospitalizations and deaths was highest during the viral season, which occurs continuously each winter.
+
+### Fig 21:  The state with the highest number of new cases: California.
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/CA.png)
+
+While it is true that California is the most populous state in the country, it also had factors that could lead it to be the epicenter of new and fatal cases of the virus. 
+
+In 2021, it had the fifth most obese population in the country and the largest ethnic population in the US. Policies to curb the advance of Covid were belated, such as the closing of establishments or the mandatory use of masks or social distancing.There were also reports by journalists showing the overcrowded conditions in which farm workers lived and had to operate. This had a major impact on the infection figures as California is one of the most agricultural states in the region.
 
 ### Fig 22:  (need title)
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/cor.png)
+
+In California we found was a high correlation between confirmed cases and total deaths. This indicates that positive tests had a direct relationship with Covid deaths. Therefore, the tests may have been the measure for action by health authorities. 
 
 ##  Conclusion
 
