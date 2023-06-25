@@ -138,7 +138,7 @@ While it is true that California is the most populous state in the country, it a
 
 In 2021, it had the fifth most obese population in the country and the largest ethnic population in the US. Policies to curb the advance of Covid were belated, such as the closing of establishments or the mandatory use of masks or social distancing.There were also reports by journalists showing the overcrowded conditions in which farm workers lived and had to operate. This had a major impact on the infection figures as California is one of the most agricultural states in the region.
 
-### Fig 22:  (need title)
+### Fig 22: California Data Correlation
 ![](https://github.com/kkevin1999/Data_Project_1/blob/main/output_data/cor.png)
 
 In California we found was a high correlation between confirmed cases and total deaths. This indicates that positive tests had a direct relationship with Covid deaths. Therefore, the tests may have been the measure for action by health authorities. 
